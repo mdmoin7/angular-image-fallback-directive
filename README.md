@@ -1,0 +1,1 @@
+# angular image fallback directive
